@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288408470629",
+    "firebase_url": "https://push-notif-740da.firebaseio.com",
+    "project_id": "push-notif-740da",
+    "storage_bucket": "push-notif-740da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288408470629:android:51510cdd9e860dcbe1b28c",
+        "android_client_info": {
+          "package_name": "com.rnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288408470629-62s06lf921rff4ogb35o2sq3cv5r1dao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvEC_eyy3MNo4sCHmt-ya4esXj1n8SGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288408470629-62s06lf921rff4ogb35o2sq3cv5r1dao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288408470629-of6bhqggs4mohrvfrgl0as6p09pp1im2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testkarir.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
